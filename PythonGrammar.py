@@ -119,6 +119,7 @@ print [x*(x+1) for x in L]
 
 # range 直接生成 list,支持切片
 # xrange 生成的是迭代器  list(xrange_type)才可生成list,不支持切片
+# range/xrange 常用于循环(遍历),如果不需要切片操作尽量用 xrange,空间代价小.
 
 
 L = xrange(1,100,2)
