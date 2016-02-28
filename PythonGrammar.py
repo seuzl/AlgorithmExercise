@@ -117,6 +117,15 @@ L = range(1,100,2)
 # 可生成[1, 3, 5, 7, 9,...]
 print [x*(x+1) for x in L]
 
+# range 直接生成 list,支持切片
+# xrange 生成的是迭代器  list(xrange_type)才可生成list,不支持切片
+
+
+L = xrange(1,100,2)
+print('----------------- xrange -------------')
+print list(L)
+
+
 # 多层表达式
 print [m+n for m in 'abc' for n in '123']
 
@@ -163,6 +172,7 @@ print sorted([1,2,3],reverse_cmp)
 #匿名函数 lambda,只能有一个表达式
 print sorted([1,2,3],lambda x,y:-cmp(x,y))   #reverse_cmp简化
 print map(lambda x:x*x,[1,2,3])
+
 
 
 
