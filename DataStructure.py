@@ -134,6 +134,10 @@ class UndirectedGraphNode:
         self.label = x
         self.neighbors = []
 
+c=collections.Counter("aaddbc")
+print('-------------------- 统计词频 ---------------------')
+print(c['a'])
+
 
 
 
