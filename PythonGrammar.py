@@ -102,6 +102,7 @@ for index,name in zip(S,L):
 # 直接迭代value,用dic.values()或dic.itervalues()
 # 同时迭代key,value--items()方法把dic转换为[('Lisa', 85)...]
 d = { 'Adam': 95, 'Lisa': 85, 'Bart': 59 }
+d['zhaolei']=98
 for key in d:
     print key,'-',d[key]
 
@@ -173,6 +174,8 @@ print sorted([1,2,3],reverse_cmp)
 print sorted([1,2,3],lambda x,y:-cmp(x,y))   #reverse_cmp简化
 print map(lambda x:x*x,[1,2,3])
 
-
+#列表转换为字符串
+L=['h','e','l','l','o']
+print("".join(L))
 
 
