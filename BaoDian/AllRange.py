@@ -7,5 +7,5 @@ def allRange(array,begin,end):
         allRange(array,begin+1,end)
         array[begin],array[i]=array[i],array[begin]
 
-list=[1,2,3]
+list=[0,1]
 allRange(list,0,len(list)-1)
