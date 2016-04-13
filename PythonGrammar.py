@@ -179,3 +179,13 @@ L=['h','e','l','l','o']
 print("".join(L))
 
 
+# ord:字符—>ascii
+# chr:ascii—>字符
+# 注意⚠️python不像C++，两个字符可以直接相减。
+# 必须先转化为ascii码。再减。
+print("------------------ascii与字符转换-------------------------")
+print ord('a')
+print chr(97)
+
+
+

@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1104f00-bcdb-493d-9e88-76226a37ffbf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jianzhiOffer/MST45.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jianzhiOffer/MST46.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jianzhiOffer/MST47.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jianzhiOffer/MST49.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jianzhiOffer/MST42_2.py" afterPath="$PROJECT_DIR$/jianzhiOffer/MST42_2.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jianzhiOffer/MST43.py" afterPath="$PROJECT_DIR$/jianzhiOffer/MST43.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PythonGrammar.py" afterPath="$PROJECT_DIR$/PythonGrammar.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Search/BinarySearch.py" afterPath="$PROJECT_DIR$/Search/BinarySearch.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jianzhiOffer/MST49.py" afterPath="$PROJECT_DIR$/jianzhiOffer/MST49.py" />
     </list>
     <ignored path="AlgorithmExercise.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -43,7 +39,7 @@
     <SUITE FILE_PATH="coverage/AlgorithmExercise$MST35.coverage" NAME="MST35 Coverage Results" MODIFIED="1460037827293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhiOffer" />
     <SUITE FILE_PATH="coverage/AlgorithmExercise$BubbleSort.coverage" NAME="BubbleSort Coverage Results" MODIFIED="1456629163018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sort" />
     <SUITE FILE_PATH="coverage/AlgorithmExercise$MST26.coverage" NAME="MST26 Coverage Results" MODIFIED="1458889974419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhiOffer" />
-    <SUITE FILE_PATH="coverage/AlgorithmExercise$MST47.coverage" NAME="MST47 Coverage Results" MODIFIED="1460275068208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhiOffer" />
+    <SUITE FILE_PATH="coverage/AlgorithmExercise$MST47.coverage" NAME="MST47 Coverage Results" MODIFIED="1460277218991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhiOffer" />
     <SUITE FILE_PATH="coverage/AlgorithmExercise$QuickSort.coverage" NAME="QuickSort Coverage Results" MODIFIED="1456828779603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sort" />
     <SUITE FILE_PATH="coverage/AlgorithmExercise$46__Permutations.coverage" NAME="46. Permutations Coverage Results" MODIFIED="1458980866655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
     <SUITE FILE_PATH="coverage/AlgorithmExercise$TwoStringsAreAnagrams.coverage" NAME="TwoStringsAreAnagrams Coverage Results" MODIFIED="1457000043043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LintCode" />
@@ -64,12 +60,13 @@
     <SUITE FILE_PATH="coverage/AlgorithmExercise$MST3.coverage" NAME="MST3 Coverage Results" MODIFIED="1457939432811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhiOffer" />
     <SUITE FILE_PATH="coverage/AlgorithmExercise$DataStructure.coverage" NAME="DataStructure Coverage Results" MODIFIED="1459067800595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AlgorithmExercise$MST9.coverage" NAME="MST9 Coverage Results" MODIFIED="1458302566907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhiOffer" />
+    <SUITE FILE_PATH="coverage/AlgorithmExercise$MST49.coverage" NAME="MST49 Coverage Results" MODIFIED="1460278620046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhiOffer" />
     <SUITE FILE_PATH="coverage/AlgorithmExercise$MST9_2.coverage" NAME="MST9_2 Coverage Results" MODIFIED="1458303256845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhiOffer" />
     <SUITE FILE_PATH="coverage/AlgorithmExercise$HeapSort.coverage" NAME="HeapSort Coverage Results" MODIFIED="1459944516152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sort" />
     <SUITE FILE_PATH="coverage/AlgorithmExercise$wangyi1.coverage" NAME="wangyi1 Coverage Results" MODIFIED="1458651779663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhiOffer" />
     <SUITE FILE_PATH="coverage/AlgorithmExercise$MST41.coverage" NAME="MST41 Coverage Results" MODIFIED="1460179474293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhiOffer" />
     <SUITE FILE_PATH="coverage/AlgorithmExercise$MST38.coverage" NAME="MST38 Coverage Results" MODIFIED="1460108596803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhiOffer" />
-    <SUITE FILE_PATH="coverage/AlgorithmExercise$PythonGrammar.coverage" NAME="PythonGrammar Coverage Results" MODIFIED="1458268899322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AlgorithmExercise$PythonGrammar.coverage" NAME="PythonGrammar Coverage Results" MODIFIED="1460279093719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AlgorithmExercise$ShellSort.coverage" NAME="ShellSort Coverage Results" MODIFIED="1456650020314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sort" />
     <SUITE FILE_PATH="coverage/AlgorithmExercise$MST33.coverage" NAME="MST33 Coverage Results" MODIFIED="1459948330767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhiOffer" />
     <SUITE FILE_PATH="coverage/AlgorithmExercise$MST10.coverage" NAME="MST10 Coverage Results" MODIFIED="1458356703700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianzhiOffer" />
@@ -97,8 +94,8 @@
       <file leaf-file-name="MST49.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/jianzhiOffer/MST49.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.13103448">
-              <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+            <state vertical-scroll-proportion="0.07862069">
+              <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -119,7 +116,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/jianzhiOffer/MST11.py" />
         <option value="$PROJECT_DIR$/jianzhiOffer/MST14.py" />
         <option value="$PROJECT_DIR$/jianzhiOffer/MST15.py" />
         <option value="$PROJECT_DIR$/jianzhiOffer/MST16.py" />
@@ -154,7 +150,6 @@
         <option value="$PROJECT_DIR$/jianzhiOffer/MST35.py" />
         <option value="$PROJECT_DIR$/jianzhiOffer/MST36.py" />
         <option value="$PROJECT_DIR$/jianzhiOffer/MST37.py" />
-        <option value="$PROJECT_DIR$/Search/BinarySearch.py" />
         <option value="$PROJECT_DIR$/jianzhiOffer/MST38.py" />
         <option value="$PROJECT_DIR$/jianzhiOffer/MST39.py" />
         <option value="$PROJECT_DIR$/jianzhiOffer/MST39_2.py" />
@@ -170,6 +165,8 @@
         <option value="$PROJECT_DIR$/jianzhiOffer/MST46.py" />
         <option value="$PROJECT_DIR$/jianzhiOffer/MST47.py" />
         <option value="$PROJECT_DIR$/jianzhiOffer/MST49.py" />
+        <option value="$PROJECT_DIR$/PythonGrammar.py" />
+        <option value="$PROJECT_DIR$/Search/BinarySearch.py" />
       </list>
     </option>
   </component>
@@ -240,6 +237,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlgorithmExercise" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlgorithmExercise" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Search" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -259,43 +270,7 @@
       <recent name="$PROJECT_DIR$/Search" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.MST47">
-    <configuration default="false" name="MST42" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jianzhiOffer" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="AlgorithmExercise" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jianzhiOffer/MST42.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="MST42_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jianzhiOffer" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="AlgorithmExercise" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jianzhiOffer/MST42_2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.PythonGrammar">
     <configuration default="false" name="MST43" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -346,6 +321,42 @@
       <module name="AlgorithmExercise" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jianzhiOffer/MST47.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="MST49" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jianzhiOffer" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="AlgorithmExercise" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jianzhiOffer/MST49.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="PythonGrammar" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="AlgorithmExercise" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonGrammar.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -544,19 +555,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.MST42" />
-      <item index="1" class="java.lang.String" itemvalue="Python.MST42_2" />
-      <item index="2" class="java.lang.String" itemvalue="Python.MST43" />
-      <item index="3" class="java.lang.String" itemvalue="Python.MST45" />
-      <item index="4" class="java.lang.String" itemvalue="Python.MST47" />
+      <item index="0" class="java.lang.String" itemvalue="Python.MST43" />
+      <item index="1" class="java.lang.String" itemvalue="Python.MST45" />
+      <item index="2" class="java.lang.String" itemvalue="Python.MST47" />
+      <item index="3" class="java.lang.String" itemvalue="Python.MST49" />
+      <item index="4" class="java.lang.String" itemvalue="Python.PythonGrammar" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.MST47" />
-        <item index="1" class="java.lang.String" itemvalue="Python.MST45" />
-        <item index="2" class="java.lang.String" itemvalue="Python.MST43" />
-        <item index="3" class="java.lang.String" itemvalue="Python.MST42_2" />
-        <item index="4" class="java.lang.String" itemvalue="Python.MST42" />
+        <item index="0" class="java.lang.String" itemvalue="Python.PythonGrammar" />
+        <item index="1" class="java.lang.String" itemvalue="Python.MST49" />
+        <item index="2" class="java.lang.String" itemvalue="Python.MST47" />
+        <item index="3" class="java.lang.String" itemvalue="Python.MST45" />
+        <item index="4" class="java.lang.String" itemvalue="Python.MST43" />
       </list>
     </recent_temporary>
   </component>
@@ -583,7 +594,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2703125" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2703125" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -635,13 +646,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/jianzhiOffer/jianzhioffer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.4814816">
-          <caret line="715" column="29" selection-start-line="715" selection-start-column="29" selection-end-line="715" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/AllRange.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -779,13 +783,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="35" column="19" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Search/BinarySearch.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="19" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -961,14 +958,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PythonGrammar.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.592592">
-          <caret line="100" column="7" selection-start-line="100" selection-start-column="6" selection-end-line="100" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DataStructure.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.55448276">
@@ -1009,10 +998,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/PythonGrammar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="189" column="0" selection-start-line="189" selection-start-column="0" selection-end-line="189" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Search/BinarySearch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jianzhiOffer/MST27.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.25793102">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/jianzhiOffer/MST49.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13103448">
-          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        <state vertical-scroll-proportion="0.07862069">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
           <folding />
         </state>
       </provider>
